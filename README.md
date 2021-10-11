@@ -1,5 +1,5 @@
 # Silver & Noise CSS
-===
+---
 
 ### Extended markdown CSS, specifically for using with Marked 2 previews from Drafts on MacOS.
 
